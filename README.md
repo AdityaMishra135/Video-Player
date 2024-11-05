@@ -22,7 +22,8 @@ It can show videos in folders as well as without folders in a separate section. 
 ## ✨ Screenshots
 
 <kbd>
-  <img src="https://raw.githubusercontent.com/HarshAndroid/VideoPlayer/master/screenshots/7.png" width=45% height=30%/>
+  <img src="![Screenshot_20241105-121024](https://github.com/user-attachments/assets/0a2637cb-e4f7-40ef-8aa4-b98c03aae876)
+" width=45% height=30%/>
   <img src="https://raw.githubusercontent.com/HarshAndroid/VideoPlayer/master/screenshots/6.png" width=45% height=30%/>
   <img src="https://raw.githubusercontent.com/HarshAndroid/VideoPlayer/master/screenshots/1.png" width=30% height=30%/>
   <img src="https://raw.githubusercontent.com/HarshAndroid/VideoPlayer/master/screenshots/8.png" width=30% height=30%/>
