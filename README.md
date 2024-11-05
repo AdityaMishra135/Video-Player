@@ -21,11 +21,11 @@ It can show videos in folders as well as without folders in a separate section. 
 
 <div style="width:100%; display:flex; justify-content:space-between;">
 
-[<img src="![Screenshot_20241105-121024](https://github.com/user-attachments/assets/7806ed87-7a74-406d-8085-8258db6a0da7)" width=19% alt="Splash">](![Screenshot_20241105-121024](https://github.com/user-attachments/assets/372dd1d4-bcb8-4e23-95be-4b1adcc6bfce))
-[<img src="![Screenshot_20241105-121118](https://github.com/user-attachments/assets/aff32422-7fe9-4b4d-9c49-4405fe16a840)" width=19% alt="Home">](![Screenshot_20241105-121118](https://github.com/user-attachments/assets/aff32422-7fe9-4b4d-9c49-4405fe16a840))
-[<img src="![Screenshot_20241105-121123](https://github.com/user-attachments/assets/179afe47-37ac-4e70-9715-c7301dee4709)" width=19% alt="Folder">](![Screenshot_20241105-121123](https://github.com/user-attachments/assets/179afe47-37ac-4e70-9715-c7301dee4709))
-[<img src="![Screenshot_20241105-121127](https://github.com/user-attachments/assets/f6924f95-ecc5-4715-a6c0-cc035dc434fa)" width=19% alt="Camera Folder">](![Screenshot_20241105-121127](https://github.com/user-attachments/assets/f6924f95-ecc5-4715-a6c0-cc035dc434fa))
-[<img src="![Screenshot_20241105-121131](https://github.com/user-attachments/assets/fdf3a668-d273-442e-8832-1a76eecb31f7)" width=19% alt="Other Folder">](![Screenshot_20241105-121131](https://github.com/user-attachments/assets/fdf3a668-d273-442e-8832-1a76eecb31f7))
+[<img src="" width=19% alt="Splash">](![Screenshot_20241105-121024](https://github.com/user-attachments/assets/372dd1d4-bcb8-4e23-95be-4b1adcc6bfce))
+[<img src="" width=19% alt="Home">](![Screenshot_20241105-121118](https://github.com/user-attachments/assets/aff32422-7fe9-4b4d-9c49-4405fe16a840))
+[<img src="" width=19% alt="Folder">](![Screenshot_20241105-121123](https://github.com/user-attachments/assets/179afe47-37ac-4e70-9715-c7301dee4709))
+[<img src="" width=19% alt="Camera Folder">](![Screenshot_20241105-121127](https://github.com/user-attachments/assets/f6924f95-ecc5-4715-a6c0-cc035dc434fa))
+[<img src="" width=19% alt="Other Folder">](![Screenshot_20241105-121131](https://github.com/user-attachments/assets/fdf3a668-d273-442e-8832-1a76eecb31f7))
 </div>
 
 
