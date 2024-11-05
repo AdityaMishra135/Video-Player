@@ -6,11 +6,12 @@ A Simple Yet Feature-Rich Video Player Application Based on ExoPlayer.
 
 <div align="center">
 
+
 <img src="https://i.ibb.co/RTh1c7y/video-player.png" height="150" />
 
+
+
 </div>
-
-
 
 Android native video player written in Kotlin. It provides a simple and easy-to-use interface for users to play videos on their Android devices.
 ExoPlayer is an open-source media player library for Android developed by Google. ExoPlayer is designed to be flexible and extensible, with support for a wide variety of audio and video formats, as well as advanced playback features such as adaptive streaming, seamless looping, and dynamic bitrates. It also provides a simple API for controlling playback and monitoring playback events, making it easy to integrate into your Android application.
