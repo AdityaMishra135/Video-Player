@@ -1,4 +1,4 @@
-![Screenshot_20241105-121131](https://github.com/user-attachments/assets/9f747517-7951-4473-a927-c56d28499f64)![Screenshot_20241105-121024](https://github.com/user-attachments/assets/a7bac735-4f02-4ed4-ab74-156aa3162c79)![Screenshot_20241105-121024](https://github.com/user-attachments/assets/0782b55c-630e-4129-9b7b-0139e41c1107)# Video-Player
+# Video-Player
 Video Player app with advance playback features (swipe for volume and brightness, add subtitles, playback speed, equalizer, picture in picture mode and lock/unlock video etc)
 A Simple Yet Feature-Rich Video Player Application Based on ExoPlayer.
 
