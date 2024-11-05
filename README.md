@@ -22,19 +22,19 @@ It can show videos in folders as well as without folders in a separate section. 
 ## ✨ Screenshots
 
 <kbd>
-  <img src="https://i.ibb.co/m5L5D9Y/Screenshot-20241105-121024.jpg" width=30% height=30%/>
-  <img src="https://i.ibb.co/bPt88cr/Screenshot-20241105-121118.jpg" width=30% height=30%/>
-  <img src="https://i.ibb.co/GxWWfCX/Screenshot-20241105-121123.jpg" width=30% height=30%/>
-  <img src="https://i.ibb.co/DKTsYnG/Screenshot-20241105-121127.jpg" width=30% height=30%/>
-  <img src="https://i.ibb.co/PjST5LZ/Screenshot-20241105-121131.jpg" width=30% height=30%/>
-  <img src="https://i.ibb.co/tQmFT3j/Screenshot-20241105-122015.jpg" width=30% height=30%/>
-  <img src="https://i.ibb.co/4MDXdP8/Screenshot-20241105-124620.jpg" width=30% height=30%/>
-  <img src="https://i.ibb.co/8m2FtJZ/Screenshot-20241105-122117.jpg" width=30% height=30%/>
-  <img src="https://i.ibb.co/Byqcb6G/Screenshot-20241105-122150.jpg" width=30% height=30%/>
-  <img src="https://i.ibb.co/VqkSqLz/Screenshot-20241105-122210.jpg" width=30% height=30%/>
-  <img src="https://i.ibb.co/KhkPtqb/Screenshot-20241105-122218.jpg" width=30% height=30%/>
-  <img src="https://i.ibb.co/4TGZBhq/Screenshot-20241105-122416.jpg" width=30% height=30%/>
-  <img src="https://i.ibb.co/KLcqyMT/Screenshot-20241105-122945.jpg" width=30% height=30%/>
+  <img src="https://i.ibb.co/m5L5D9Y/Screenshot-20241105-121024.jpg" width=35% height=30%/>
+  <img src="https://i.ibb.co/bPt88cr/Screenshot-20241105-121118.jpg" width=35% height=30%/>
+  <img src="https://i.ibb.co/GxWWfCX/Screenshot-20241105-121123.jpg" width=35% height=30%/>
+  <img src="https://i.ibb.co/DKTsYnG/Screenshot-20241105-121127.jpg" width=35% height=30%/>
+  <img src="https://i.ibb.co/PjST5LZ/Screenshot-20241105-121131.jpg" width=35% height=30%/>
+  <img src="https://i.ibb.co/tQmFT3j/Screenshot-20241105-122015.jpg" width=35% height=30%/>
+  <img src="https://i.ibb.co/4MDXdP8/Screenshot-20241105-124620.jpg" width=35% height=30%/>
+  <img src="https://i.ibb.co/8m2FtJZ/Screenshot-20241105-122117.jpg" width=35% height=30%/>
+  <img src="https://i.ibb.co/Byqcb6G/Screenshot-20241105-122150.jpg" width=35% height=30%/>
+  <img src="https://i.ibb.co/VqkSqLz/Screenshot-20241105-122210.jpg" width=35% height=30%/>
+  <img src="https://i.ibb.co/KhkPtqb/Screenshot-20241105-122218.jpg" width=35% height=30%/>
+  <img src="https://i.ibb.co/4TGZBhq/Screenshot-20241105-122416.jpg" width=35% height=30%/>
+  <img src="https://i.ibb.co/KLcqyMT/Screenshot-20241105-122945.jpg" width=35% height=30%/>
 </kbd>
 
 ---
