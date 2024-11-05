@@ -17,6 +17,9 @@ ExoPlayer is also highly customizable, with support for custom renderers, audio 
 
 It can show videos in folders as well as without folders in a separate section. It provides the best equalizer for managing audio track frequencies.
 
+## ✨ Screenshots
+
+
 
 ## ✨ Features
 
