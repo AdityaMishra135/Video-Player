@@ -19,15 +19,6 @@ It can show videos in folders as well as without folders in a separate section. 
 
 ## ✨ Screenshots
 
-<kbd>
-![Screenshot_20241105-121127](https://github.com/user-attachments/assets/ebcb66e9-c014-4c74-9062-2304e8852e49)
-![Screenshot_20241105-121123](https://github.com/user-attachments/assets/bd9299b2-232b-4430-b6c1-086b07c5b68b)
-![Screenshot_20241105-121118](https://github.com/user-attachments/assets/126c403b-10b1-4443-ba79-0b5e4237f78c)
-![Screenshot_20241105-121024](https://github.com/user-attachments/assets/62f581eb-5ee2-4309-b9e5-018f883a0956)
-![Screenshot_20241105-121131](https://github.com/user-attachments/assets/d8326830-505f-4178-8a85-344242f57076)
-![Screenshot_20241105-122015](https://github.com/user-attachments/assets/864cc633-14e4-43d0-92e6-ca960e3fbcea)
-
-</kbd>
 
 
 ## ✨ Features
