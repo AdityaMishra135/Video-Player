@@ -20,13 +20,13 @@ It can show videos in folders as well as without folders in a separate section. 
 ## ✨ Screenshots
 
 <kbd>
-  <img src="![Screenshot_20241105-121024](https://github.com/user-attachments/assets/236a4933-945c-4634-baa7-c6377e9744aa)" width=45% height=30%/>
-  <img src="![Screenshot_20241105-121118](https://github.com/user-attachments/assets/d343e108-e0cc-4db1-a90b-73fd88dbee18)" width=45% height=30%/>
-  <img src="![Screenshot_20241105-121123](https://github.com/user-attachments/assets/0a4e31e4-2cad-4ab8-bd52-70b98e13b99c)" width=30% height=30%/>
-  <img src="![Screenshot_20241105-121127](https://github.com/user-attachments/assets/6a24192c-787f-46c9-95eb-0dd849e4d7a7)" width=30% height=30%/>
-  <img src="![Screenshot_20241105-121131](https://github.com/user-attachments/assets/31cee018-1e4f-4744-9d9a-cccb515118e3)" width=30% height=30%/>
-  <img src="![Screenshot_20241105-122015](https://github.com/user-attachments/assets/df44b427-c5bb-49c7-8dc4-fec411b033b1)" width=30% height=25%/>
-  <img src="![Screenshot_20241105-124620](https://github.com/user-attachments/assets/1b009924-7d7c-4bd7-89f9-26c22456b633)" width=30% height=25%/>
+![Screenshot_20241105-121127](https://github.com/user-attachments/assets/ebcb66e9-c014-4c74-9062-2304e8852e49)
+![Screenshot_20241105-121123](https://github.com/user-attachments/assets/bd9299b2-232b-4430-b6c1-086b07c5b68b)
+![Screenshot_20241105-121118](https://github.com/user-attachments/assets/126c403b-10b1-4443-ba79-0b5e4237f78c)
+![Screenshot_20241105-121024](https://github.com/user-attachments/assets/62f581eb-5ee2-4309-b9e5-018f883a0956)
+![Screenshot_20241105-121131](https://github.com/user-attachments/assets/d8326830-505f-4178-8a85-344242f57076)
+![Screenshot_20241105-122015](https://github.com/user-attachments/assets/864cc633-14e4-43d0-92e6-ca960e3fbcea)
+
 </kbd>
 
 
