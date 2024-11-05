@@ -1,2 +1,57 @@
-# -Video-Player
+# Video-Player
 Video Player app with advance playback features (swipe for volume and brightness, add subtitles, playback speed, equalizer, picture in picture mode and lock/unlock video etc)
+A Simple Yet Feature-Rich Video Player Application Based on ExoPlayer.
+
+<div align="center">
+
+<img src="![video_player](https://github.com/user-attachments/assets/c59a57c4-7a9f-4fd0-a1e1-7f69ddad85d0)" height="150" />
+
+</div>
+
+
+Android native video player written in Kotlin. It provides a simple and easy-to-use interface for users to play videos on their Android devices.
+ExoPlayer is an open-source media player library for Android developed by Google. ExoPlayer is designed to be flexible and extensible, with support for a wide variety of audio and video formats, as well as advanced playback features such as adaptive streaming, seamless looping, and dynamic bitrates. It also provides a simple API for controlling playback and monitoring playback events, making it easy to integrate into your Android application.
+
+ExoPlayer is also highly customizable, with support for custom renderers, audio and video codecs, and track selection strategies. This allows developers to tailor the player to their specific needs and optimize playback performance for their particular use case.
+
+It can show videos in folders as well as without folders in a separate section. It provides the best equalizer for managing audio track frequencies.
+
+
+## ✨ Features
+
+- Native Android app with simple and **easy-to-use interface**.
+- **Double Tap** to fast-forward or rewind.
+- Swipe **right** to adjust brightness.
+- Swipe **left** to adjust volume.
+- Completely free and **open source and without any ads** or excessive permissions.
+- **Full-Screen Player** with notch support (overridden).
+- **Sleep Timer** for auto-shutdown.
+- **Audio Booster** to enhance sound.
+- **Media picker** with tree, folder and file view modes
+- Select **Subtitles** and **Audio Tracks**.
+- Custom **Themes Selection**.
+- **Share** Videos with friends.
+- Properties of video **(video name, path, size, length, duration, resolution)**.
+- **Lock and unLock video**.
+- **Picture in Picture mode** for playing video in small window.
+- **Swipe to Refresh** UI.
+- **Sort Video** files by name, date, length and size in Ascending or Descending order.
+- **Search Video with Name**.
+- **Background Video Playback**.
+- Manage videos with **Delete**, **Rename**, and **Share** features.
+- Clean UI with **Material Design Widgets**.
+- Play **Online Videos** via URL or link.
+- **In-built YouTube Integration** using custom Chrome tabs.
+- Full **Android 13 & 14 Permission Handling**.
+- **And much more...**
+
+This is the app to meet all the requirements of the media player and along with attractive UI will bring you the best experience.
+
+## 💡 Note
+
+This project is much more improved and optimized It includes new features and better performance.
+
+## :heart: Support My Projects 
+However, if you get some profit from this or just want to encourage me to continue creating stuff, there are few ways you can do it. :coffee: :hamburger: :fries: :apple:
+
+* Starring: You may give a star or share the projects you like.
