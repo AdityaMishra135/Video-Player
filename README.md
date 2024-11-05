@@ -21,11 +21,16 @@ It can show videos in folders as well as without folders in a separate section. 
 
 <div style="width:100%; display:flex; justify-content:space-between;">
 
-[<img src="![Screenshot_20241105-121024](https://github.com/user-attachments/assets/a9dc50c0-fd64-461b-977f-b8a0549f0199)" width=19% alt="Splash">]()
-[<img src="" width=19% alt="Home">]()
-[<img src="" width=19% alt="Folder">]()
-[<img src="" width=19% alt="Camera Folder">]()
-[<img src="" width=19% alt="Other Folder">]()
+<kbd>
+  <img src="![Screenshot_20241105-121024](https://github.com/user-attachments/assets/236a4933-945c-4634-baa7-c6377e9744aa)" width=45% height=30%/>
+  <img src="https://raw.githubusercontent.com/HarshAndroid/VideoPlayer/master/screenshots/6.png" width=45% height=30%/>
+  <img src="https://raw.githubusercontent.com/HarshAndroid/VideoPlayer/master/screenshots/1.png" width=30% height=30%/>
+  <img src="https://raw.githubusercontent.com/HarshAndroid/VideoPlayer/master/screenshots/8.png" width=30% height=30%/>
+  <img src="https://raw.githubusercontent.com/HarshAndroid/VideoPlayer/master/screenshots/3.png" width=30% height=30%/>
+  <img src="https://raw.githubusercontent.com/HarshAndroid/VideoPlayer/master/screenshots/4.png" width=30% height=25%/>
+  <img src="https://raw.githubusercontent.com/HarshAndroid/VideoPlayer/master/screenshots/5.png" width=30% height=25%/>
+</kbd>
+
 </div>
 
 
