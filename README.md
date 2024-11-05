@@ -2,6 +2,8 @@
 Video Player app with advance playback features (swipe for volume and brightness, add subtitles, playback speed, equalizer, picture in picture mode and lock/unlock video etc)
 A Simple Yet Feature-Rich Video Player Application Based on ExoPlayer.
 
+![Status](https://img.shields.io/badge/Status-Active-brightgreen)  ![Kotlin](https://img.shields.io/badge/Kotlin-100%25-brightgreen)
+
 <div align="center">
 
 <img src="https://i.ibb.co/RTh1c7y/video-player.png" height="150" />
