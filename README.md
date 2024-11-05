@@ -4,7 +4,7 @@ A Simple Yet Feature-Rich Video Player Application Based on ExoPlayer.
 
 <div align="center">
 
-<img src="![video_player](https://github.com/user-attachments/assets/c59a57c4-7a9f-4fd0-a1e1-7f69ddad85d0)" height="150" />
+<img src="https://i.ibb.co/RTh1c7y/video-player.png" height="150" />
 
 </div>
 
