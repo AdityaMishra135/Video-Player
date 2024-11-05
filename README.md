@@ -19,8 +19,6 @@ It can show videos in folders as well as without folders in a separate section. 
 
 ## ✨ Screenshots
 
-<div style="width:100%; display:flex; justify-content:space-between;">
-
 <kbd>
   <img src="![Screenshot_20241105-121024](https://github.com/user-attachments/assets/236a4933-945c-4634-baa7-c6377e9744aa)" width=45% height=30%/>
   <img src="![Screenshot_20241105-121118](https://github.com/user-attachments/assets/d343e108-e0cc-4db1-a90b-73fd88dbee18)" width=45% height=30%/>
@@ -30,8 +28,6 @@ It can show videos in folders as well as without folders in a separate section. 
   <img src="![Screenshot_20241105-122015](https://github.com/user-attachments/assets/df44b427-c5bb-49c7-8dc4-fec411b033b1)" width=30% height=25%/>
   <img src="![Screenshot_20241105-124620](https://github.com/user-attachments/assets/1b009924-7d7c-4bd7-89f9-26c22456b633)" width=30% height=25%/>
 </kbd>
-
-</div>
 
 
 ## ✨ Features
