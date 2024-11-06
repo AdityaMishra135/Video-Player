@@ -35,7 +35,7 @@ It can show videos in folders as well as without folders in a separate section. 
   <img src="https://i.ibb.co/VqkSqLz/Screenshot-20241105-122210.jpg" width=30% height=30%/>
   <img src="https://i.ibb.co/KhkPtqb/Screenshot-20241105-122218.jpg" width=30% height=30%/>
   <img src="https://i.ibb.co/4TGZBhq/Screenshot-20241105-122416.jpg" width=30% height=30%/>
-  <img src="https://i.ibb.co/KLcqyMT/Screenshot-20241105-122945.jpg" width=30% height=30%/>
+  <img src="https://i.ibb.co/xXxtwpf/Media.jpg" width=30% height=30%/>
 </kbd>
 
 ---
