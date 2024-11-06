@@ -38,7 +38,6 @@ It can show videos in folders as well as without folders in a separate section. 
   <img src="https://i.ibb.co/xXxtwpf/Media.jpg" width=30% height=30%/>
 </kbd>
 
----
 
 ## ✨ Features
 
